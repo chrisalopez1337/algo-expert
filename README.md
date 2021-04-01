@@ -29,3 +29,10 @@ Super easy, no worries at all, got the solution first try
 ### Python
 Super easy, no worries at all, got the solution first try
 
+## Find Closest In BST
+
+### Javascript
+Initally went with a while loop, then refactored to recursion. Still really simple and either would work but should go with recursion
+
+### Python
+Super easy, got it first try
