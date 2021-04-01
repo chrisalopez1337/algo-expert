@@ -16,9 +16,6 @@ Super easy, no worries at all got the solution right away
 ### Python
 Super easy, no worries at all got the solution first try
 
-### Java
-Really difficult since I am not comfortable with the syntax, however was able ot fix the syntax and get it working.
-
 # Note: Going to skip on java for a bit due to time
 
 ## Validate Subsequence
